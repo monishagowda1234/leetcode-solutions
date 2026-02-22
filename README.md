@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
