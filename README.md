@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0001-two-sum) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
