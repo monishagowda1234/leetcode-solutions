@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0001-two-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Matrix
+|  |
+| ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 <!---LeetCode Topics End-->
