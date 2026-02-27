@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
 | ------- |
@@ -82,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
