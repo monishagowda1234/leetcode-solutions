@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Graph Theory
 |  |
