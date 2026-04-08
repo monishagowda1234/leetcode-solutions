@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Greedy
 |  |
 | ------- |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
