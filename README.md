@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -95,14 +96,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Sorting
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0015-3sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -243,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
