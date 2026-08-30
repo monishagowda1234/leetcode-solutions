@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0832-flipping-an-image](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
