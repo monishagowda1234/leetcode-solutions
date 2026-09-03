@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
