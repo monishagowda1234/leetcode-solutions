@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3903-smallest-stable-index-i](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
