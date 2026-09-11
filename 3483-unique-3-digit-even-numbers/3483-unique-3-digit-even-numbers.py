@@ -1,12 +1,27 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        f = Counter(digits)
+        l=[]
+        mp=[0]*10
+        for d in digits:
+            mp[d] +=1
 
-        res = 0
-        for n in range(100, 1000, 2):
-            i, r = divmod(n, 100)
-            j, k = divmod(r, 10)
+        for i in range(1,10):
+            if mp[i]==0:
+                continue
+            else:
+                mp[i] -= 1
+            for j in range(0,10):
+                if mp[j]==0:
+                    continue
+                else:
+                    mp[j] -=1
+                for k in range(0,10,2):
+                    if mp[k]>0:
+                        l.append(i*100+j*10+k)
 
-            res += f[i] > 0 and f[j] > (i == j) and f[k] > (i == k) + (j == k)
+                mp[j] +=1
+            mp[i] +=1
 
-        return res
+        return len(l)
+
+        
