@@ -1,8 +1,14 @@
 class Solution:
     def largestOverlap(self, img1: List[List[int]], img2: List[List[int]]) -> int:
-        n,ans = len(img1), 0
-        limg1 = sum(sum(img1[i][j] <<(n-j-1) for j in range(n)) <<(2*n*(n-i-1)) for i in range(n))
-        limg2 = sum(sum(img2[i][j] <<(n-j-1) for j in range(n)) <<(2*n*(n-i-1)) for i in range(n))
-        for s in range(4*n*n):
-            ans= max(ans, ((limg1>>s)&limg2).bit_count(), (limg1&(limg2>>s)).bit_count())
-        return   ans        
+        n = len(img1)
+        A = [(i, j) for i in range(n) for j in range(n) if img1[i][j] == 1]
+        B = [(i, j) for i in range(n) for j in range(n) if img2[i][j] == 1]
+        cnt = [[0] * (2 * n) for _ in range(2 * n)]
+        best = 0
+        for ax, ay in A:
+            for bx, by in B:
+                dx = bx - ax + n
+                dy = by - ay + n
+                cnt[dx][dy] += 1
+                best = max(best, cnt[dx][dy])
+        return best
