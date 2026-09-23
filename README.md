@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
