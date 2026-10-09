@@ -1,26 +1,30 @@
 class Solution:
     def minInsertions(self, s: str) -> int:
-        stack = []
-        count = 0
+        insertions = 0
+        open_count = 0
         i = 0
+        n = len(s)
         
-        while i < len(s):
+        while i < n:
             if s[i] == '(':
-                stack.append('(')
-            else:
-                if not stack:
-                    if i != len(s) - 1 and s[i + 1] == ')':
-                        count += 1
-                        i += 1  # Skip next ')'
-                    else:
-                        count += 2
+                open_count += 1
+                i += 1
+            else:  # s[i] == ')'
+                # Check if the next character is also ')'
+                if i + 1 < n and s[i + 1] == ')':
+                    i += 2
                 else:
-                    if i != len(s) - 1 and s[i + 1] == ')':
-                        stack.pop()
-                        i += 1
-                    else:
-                        count += 1
-                        stack.pop()
-            i += 1
-        
-        return count + len(stack) * 2  # Each unmatched '(' needs two ')'
+                    # Missing one ')'
+                    insertions += 1
+                    i += 1
+                
+                # Consume an open parenthesis if available
+                if open_count > 0:
+                    open_count -= 1
+                else:
+                    # Need to insert an '(' for this '))'
+                    insertions += 1
+                    
+        # For every remaining open parenthesis, we need two ')'
+        insertions += open_count * 2
+        return insertions
