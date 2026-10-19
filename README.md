@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
