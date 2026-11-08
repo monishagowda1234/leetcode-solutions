@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0832-flipping-an-image](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/monishagowda1234/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -272,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1267-count-servers-that-communicate](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/monishagowda1234/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/monishagowda1234/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
